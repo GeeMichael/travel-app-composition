@@ -2,8 +2,8 @@
     <div>
         <h1>Not Found</h1>
         <p>
-            Oops, we couldn't find that page. Try going
-            <router-link to="/">Home</router-link>
+            Mr. DesLauriers if you see this ask me about my UofT acceptance :O or you can
+            <router-link to="/">click here to go home</router-link>
         </p>
     </div>
 </template>
